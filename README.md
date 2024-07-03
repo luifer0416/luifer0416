@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, There 👋
+
+## I am Luis Ahumedo :colombia:
+## Ing Aeronautico / Ing de Software in progress  :computer: :clock230: ...
 
 <!--
 **luifer0416/luifer0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
